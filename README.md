@@ -79,7 +79,3 @@ Create a bunch of additional users and attempt to log into client-1 with one of 
 31. When finished, open ADUC and observe the accounts in the appropriate OU
 
 32. Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
-
-   
-
-https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group/assets/124515149/3392107f-8673-4c2c-8043-95b1178a6d6b
