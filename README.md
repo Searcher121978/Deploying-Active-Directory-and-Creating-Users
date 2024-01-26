@@ -1,5 +1,5 @@
-#  Microsoft-Azure-Deploying Active Directory and Creating Users (Video below)
- Microsoft-Azure-Deploying Active Directory and Creating Users (Video below)
+#  Microsoft-Azure-Deploying Active Directory and Creating Users instructions
+ Microsoft-Azure-Deploying Active Directory and Creating Users instructions
 
 1. Create the Domain Controller VM (Windows Server 2022) named “DC-1”
 
