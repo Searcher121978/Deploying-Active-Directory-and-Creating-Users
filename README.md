@@ -72,7 +72,7 @@ Create a bunch of additional users and attempt to log into client-1 with one of 
 
 28. Open PowerShell_ise as an administrator
 
-29. Create a new file and paste the contents of the script into it https://github.com/Generate-Names-Create-Users.ps1
+29. Create a new file and paste the contents of the script into it [https://github.com/Generate-Names-Create-Users.ps1]
 
 30. Run the script and observe the accounts being created
 
