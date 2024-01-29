@@ -68,7 +68,7 @@ Setup Remote Desktop for non-administrative users on Client-1
 
 Create a bunch of additional users and attempt to log into client-1 with one of the users
 
-27. Login to DC-1 as jane_admin
+27. Login to DC-1 as (first name)_admin
 
 28. Open PowerShell_ise as an administrator
 
